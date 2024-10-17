@@ -13,6 +13,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yago-Lima&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h4 align="left">Skills:</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -37,7 +47,11 @@
 
 ###
 
-<div align="left">
+<h4 align="center">Social Medias</h4>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/yago_myth.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -48,9 +62,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Yago-Lima/Yago-Lima/snake.svg" alt="Snake animation" />
 
 ###
