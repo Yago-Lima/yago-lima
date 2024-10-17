@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yago-Lima/Yago-Lima/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yago-Lima/Yago-Lima/snake.svg" alt="Snake animation" />
 
 ###
