@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">About Me!<br><br>I'm a junior developer from the Federal Institute of Tocantins, and currently, I work as a junior developer.</h4>
+<h4 align="left">About Me!<br><br>I'm a student developer from the Federal Institute of Tocantins, and currently, I work as a junior developer.</h4>
 
 ###
 
